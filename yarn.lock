@@ -3218,10 +3218,10 @@ brorand@^1.0.1, brorand@^1.1.0:
   version "1.1.0"
   resolved "https://registry.npmjs.org/brorand/-/brorand-1.1.0.tgz"
 
-browser-fs-access@0.18.0:
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/browser-fs-access/-/browser-fs-access-0.18.0.tgz#d69758ff83ce6a16bb0ece2541742bc3cd86db65"
-  integrity sha512-1B6CTTpYl0kP5sP+rJ8osy4Yka8WqnrXHqChMZZVzlw7pQ2VJ+IiLEP7SxonHjtMMSLCnpd24mU08FIExXb2DQ==
+browser-fs-access@0.30.2:
+  version "0.30.2"
+  resolved "https://registry.yarnpkg.com/browser-fs-access/-/browser-fs-access-0.30.2.tgz#b3eeaab95cdca9610bf59e0f802458b2c765bdd2"
+  integrity sha512-FUwj3WRO393gIQUqzvl0NyWwGwlvduBoqi1Ur5w1cnm5YyL789gGPZst3BWec2qiwlcyHjeUPNqbuC3J3YArUg==
 
 browser-process-hrtime@^1.0.0:
   version "1.0.0"
